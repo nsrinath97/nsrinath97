@@ -2,6 +2,28 @@
 <h3 align="center">Data Scientist.</h3> 
 
 
+## Skills
+
+#### Languages 
+[Python](https://www.python.org/)
+
+#### Data
+[Pandas](https://pandas.pydata.org/)
+[NumPy](https://numpy.org/)
+[Excel](https://www.microsoft.com/en-us/microsoft-365/excel)
+
+#### Visualization
+[Matplotlib](https://matplotlib.org/)
+[Seaborn](https://seaborn.pydata.org/)
+[Plotly](https://plotly.com/python/)
+[Tableau](https://www.tableau.com/)
+
+#### Machine Learning
+[Scikit-learn](https://scikit-learn.org/stable/index.html)
+[XGBoost](https://xgboost.readthedocs.io/en/stable/python/python_intro.html)
+[Keras](https://www.tensorflow.org/api_docs/python/tf/keras)
+
+
 ## Education
 
 ### Jovian
@@ -18,15 +40,11 @@ Overview: Python Fundamentals, Probability and Statistics, Data Science/Data Ana
 * Web scraped for over 90 thousand rows of data for feature engineering to improve model performance
 * Trained 8 ML models and tuned hyper parameters to improve model performance and reduce over fitting
 
-
-
 #### Fashion Images Auto-encoding and Image Classification Machine Learning Project: [Link](https://jovian.ai/nsrinath97/fashion-image-autoencoding-and-classification)
 
 * Used data set of 70,000 images to train auto-encoding, image classification machine learning models
 * Created and trained a deep convolutional neural network using the Keras library in Tensorflow
 * Achieved loss of 0.26 in auto-encoding and an accuracy of 91% in the image classification test sets
-
-
 
 #### Used Car Price Prediction Machine Learning Project: [Link](https://jovian.ai/nsrinath97/used-car-price-prediction-machine-learning-project)
 
@@ -34,15 +52,11 @@ Overview: Python Fundamentals, Probability and Statistics, Data Science/Data Ana
 * Performed Exploratory Data Analysis and extracted 4 features from data set to improve machine learning performance
 * Trained 8 machine learning models and saw up to 575% improvement in accuracy over simple Mean Value mode
 
-
-
 #### San Fransisco Jobs Exploratory Data Analysis: [Link](https://jovian.ai/nsrinath97/eda-san-fransisco-jobs)
 
 * Prepare, clean and analyze data set of San Fransisco payroll with over 300,000 data entries and 10 columns using Pandas
 * Created visualizations such as histograms, scatter plots and bar charts etc. using Plotly, to answer questions about the data set.
 * ained insight on salary trends in San Fransisco per year, most common jobs and variances in salaries based on multiple factors
-
-
 
 #### Reddit Web Scraping Project: [Link](https://jovian.ai/nsrinath97/reddit-web-scraping-project)
 
@@ -57,7 +71,6 @@ Overview: Python Fundamentals, Probability and Statistics, Data Science/Data Ana
 <a href="https://medium.com/@nsrinath97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pankajthakur3999" height="30" width="40" /></a>
 <a href="https://jovian.ai/nsrinath97" target="blank"><img align="center" src="https://github.com/JovianML/jovian-py/blob/master/docs/jovian_favicon.png?raw=true"
 </p>
-
 
 ### [Resume](https://github.com/nsrinath97/nsrinath97/blob/main/Srinath%20Nanduri%20-%20Resume.pdf)
 
