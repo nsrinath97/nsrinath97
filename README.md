@@ -94,5 +94,3 @@ Overview: Python Fundamentals, Probability and Statistics, Data Science/Data Ana
 <a href="https://jovian.ai/nsrinath97" target="blank"><img align="center" src="https://github.com/JovianML/jovian-py/blob/master/docs/jovian_favicon.png?raw=true"
 </p>
 
-### [Resume](https://github.com/nsrinath97/nsrinath97/blob/main/Srinath%20Nanduri%20-%20Resume.pdf)
-
