@@ -33,6 +33,19 @@
 
 ### Projects
 
+#### Azure Multiple Scenarios Project [Link](https://drive.google.com/file/d/1IjPF3YBlqaPKjxKieFvmPLSw9RDrPH3u/view?usp=sharing)
+##### Three separate scenarios that Microsoft Azure tools can provide solutions for
+
+* Scenario 1: Real time data streaming analytics - Stream the events of a hockey game and query the results
+* Scenario 2: Near real time streaming data analytics - Log analytics for network monitoring
+* Scenario 3: Batch processing for large structured data - Processing of a customer transactions table
+
+#### Azure Medallion Architecture Project [Link](https://drive.google.com/file/d/1bHgO5YEtkDzXca3bsNDmc6u_Zw8uomet/view?usp=drive_link)
+
+* Create sample customers and transactions dataset to manipulate raw data into medallion architecture
+* Use Azure Synapse Analytics to create SQL tables for Bronze, Silver and Gold level tables and populate them with data
+* Create dashboards and reports using Microsoft PowerBI connected to the Synapse workspace
+
 #### Airplane Delay Prediction Machine Learning Project: [Link](https://drive.google.com/file/d/1vcy1104NuFZcHYNliuCf_F5OahvDO1WZ/view?usp=sharing)
 
 * Used a data set of over 1.7 million rows and 31 columns to train ML models to predict airplane delay
