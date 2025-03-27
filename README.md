@@ -2,36 +2,7 @@
 <h3 align="center">Data Engineer</h3> 
 
 
-
-
-## Skills
-
-#### Cloud & Big Data
-[Microsoft Azure](https://azure.microsoft.com/en-ca)
-
-#### Languages 
-[Python](https://www.python.org/)
-[SQL & T-SQL](https://learn.microsoft.com/en-us/sql/t-sql/language-reference?view=sql-server-ver16)
-
-#### Data
-[Pandas](https://pandas.pydata.org/)
-[NumPy](https://numpy.org/)
-[Excel](https://www.microsoft.com/en-us/microsoft-365/excel)
-
-#### Visualization & Reporting
-[Matplotlib](https://matplotlib.org/)
-[Seaborn](https://seaborn.pydata.org/)
-[Plotly](https://plotly.com/python/)
-[Tableau](https://www.tableau.com/)
-[Microsoft PowerBI](https://www.microsoft.com/en-us/power-platform/products/power-bi)
-
-#### Machine Learning
-[Scikit-learn](https://scikit-learn.org/stable/index.html)
-[XGBoost](https://xgboost.readthedocs.io/en/stable/python/python_intro.html)
-[Keras](https://www.tensorflow.org/api_docs/python/tf/keras)
-
-
-### Projects
+## Projects
 
 #### Azure Multiple Scenarios Project [Link](https://drive.google.com/file/d/1IjPF3YBlqaPKjxKieFvmPLSw9RDrPH3u/view?usp=sharing)
 ##### Three separate scenarios that Microsoft Azure tools can provide solutions for
@@ -76,6 +47,32 @@
 * Shows the most liked content, along with the optimal time of day and week to post for maximum viewer engagement
 * Obtained data of the top 100 posts on a subreddit from Reddit.com (Title, Username, Date of submission, Number of comments, Link to webpage) and converted the data into a .csv file with 100 rows and 6 columns
 
+
+## Skills
+
+#### Cloud & Big Data
+[Microsoft Azure](https://azure.microsoft.com/en-ca)
+
+#### Languages 
+[Python](https://www.python.org/)
+[SQL & T-SQL](https://learn.microsoft.com/en-us/sql/t-sql/language-reference?view=sql-server-ver16)
+
+#### Data
+[Pandas](https://pandas.pydata.org/)
+[NumPy](https://numpy.org/)
+[Excel](https://www.microsoft.com/en-us/microsoft-365/excel)
+
+#### Visualization & Reporting
+[Matplotlib](https://matplotlib.org/)
+[Seaborn](https://seaborn.pydata.org/)
+[Plotly](https://plotly.com/python/)
+[Tableau](https://www.tableau.com/)
+[Microsoft PowerBI](https://www.microsoft.com/en-us/power-platform/products/power-bi)
+
+#### Machine Learning
+[Scikit-learn](https://scikit-learn.org/stable/index.html)
+[XGBoost](https://xgboost.readthedocs.io/en/stable/python/python_intro.html)
+[Keras](https://www.tensorflow.org/api_docs/python/tf/keras)
 
 <h3 align="left">LinkedIn:</h3>
 <p align="left">
